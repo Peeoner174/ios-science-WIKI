@@ -609,3 +609,7 @@ Whole Module Optimization может автоматически происход
 
 ![photo_2020-09-11 18.18.06](/Users/pavelkochenda/Downloads/photo_2020-09-11 18.18.06.jpeg)
 
+
+
+Method Dispatch (вычисление адреса вызываемой функции во время исполнения - dynamic, во время компиляции - static)
+
