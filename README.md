@@ -601,7 +601,11 @@ Whole Module Optimization может автоматически происход
 
   <M: ProtocolWithAssociatedtype> -- можно
 
-  
 
 
+**App Architectures**
+
+![photo_2020-09-11 18.18.08](/Users/pavelkochenda/Downloads/photo_2020-09-11 18.18.08.jpeg)
+
+![photo_2020-09-11 18.18.06](/Users/pavelkochenda/Downloads/photo_2020-09-11 18.18.06.jpeg)
 
