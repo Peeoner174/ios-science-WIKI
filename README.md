@@ -605,11 +605,9 @@ Whole Module Optimization может автоматически происход
 
 **App Architectures**
 
-![photo_2020-09-11 18.18.08](/Users/pavelkochenda/Downloads/photo_2020-09-11 18.18.08.jpeg)
+![photo_2020-09-11 18.18.06](https://github.com/Peeoner174/ios-science-WIKI/blob/master/photo_2020-09-11%2018.18.06.jpeg)
 
-![photo_2020-09-11 18.18.06](/Users/pavelkochenda/Downloads/photo_2020-09-11 18.18.06.jpeg)
-
-
+![photo_2020-09-11 18.18.08](https://github.com/Peeoner174/ios-science-WIKI/blob/master/photo_2020-09-11%2018.18.08.jpeg)
 
 Method Dispatch (вычисление адреса вызываемой функции во время исполнения - dynamic, во время компиляции - static)
 
